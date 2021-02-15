@@ -16,6 +16,6 @@ func isUnique(s string) bool {
 }
 
 func main() {
-	fmt.Println(isUnique("ankit"))
-	fmt.Println(isUnique("aankit"))
+	fmt.Println(isUnique("test"))
+	fmt.Println(isUnique("ttest"))
 }
